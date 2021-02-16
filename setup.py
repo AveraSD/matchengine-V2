@@ -34,7 +34,7 @@ setup(
     ],
     include_package_data=True,
     python_requires='>=3.7',
-    download_url='https://github.com/dfci/matchengine-V2/archive/2.0.0.tar.gz',
+    download_url='https://github.com/dfci/matchengine-V2/archive/2.1.tar.gz',
     classifiers=[
         "Environment :: Console",
         "Intended Audience :: Healthcare Industry",
