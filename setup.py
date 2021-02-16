@@ -25,7 +25,6 @@ setup(
         ]
     },
     install_requires=[
-        "bson>=0.5.8",
         "python-dateutil>=2.8.0",
         "PyYAML>=5.1",
         "Pandas>=0.25.0",
